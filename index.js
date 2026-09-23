@@ -8,7 +8,7 @@ app.use(express.json());
 
 /* ========== 🔑 CONFIG (Token + Admin ID) ========== */
 const BOT_TOKEN = process.env.BOT_TOKEN || '8504405930:AAgrgPuk5STxPpOOYC7YI1sP8k3pw3Gey30';
-const ADMIN_ID  = process.env.ADMIN_ID  || '123456789';
+const ADMIN_ID  = process.env.ADMIN_ID  || '8572642793';
 const PORT      = process.env.PORT      || 3000;
 
 /* ========== In-memory Stores ========== */
